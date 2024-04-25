@@ -12,9 +12,6 @@
 - Hooks
 - React Router Dom
 
-## 📝 Sobre o desafio:
-O desafio é um design antigo do TeslaBank criado para o pessoal que adquiriu o ebook eFront. Link do desafio 37: <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=191725%3A3600&t=lydjpaBPzSr0y1h3-1" target="_blank">Figma</a>
-
 #
 #### 🚧A aplicação ainda não possui responsividade para dispositivos móveis❗🚧
 #
