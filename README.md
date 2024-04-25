@@ -40,4 +40,4 @@ Finalmente, execute o projeto:
 npm run dev
 ```
 #
->  O design do Figma assim como a ideia do desafio, são de autoria de <a href="https://iuricode.com/" target="_blank">Marcelo Souza</a>
+>  O design do Figma assim como a ideia do desafio, são de autoria de <a href="https://marcelosouzabio.netlify.app" target="_blank">Marcelo Souza</a>
