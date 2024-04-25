@@ -24,7 +24,7 @@ path='/'
 Para instalar o projeto, com o Visual Studio Code, ou outro editor de sua preferência,
 abra o terminal e clone o projeto:
 ``` 
-git clone https://github.com/luiseduardot17/teslabank-codelandia.git
+git clone https://github.com/darkzinn2/TeslaBank
 ```
 No terminal, instale as dependências do projeto (Para isso você precisa ter o Node.js instalado):
 ```
